@@ -1,0 +1,21 @@
+#chk {
+    /* display:none; */
+}
+.box {
+    width:50px;
+    height:22px;
+    border-radius:20px;
+    border:1px solid silver;
+    position:relative;
+    padding: 3px;
+    background-color: lightgray;
+    transition: background 0.3s;
+}
+.round {
+    width:20px;
+    height:20px;
+    border:1px solid silver;
+    border-radius:100%;
+    position: absolute;
+    background-color: white;
+}
